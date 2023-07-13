@@ -1,3 +1,9 @@
+![8](https://github.com/mms-aazeem/Daily-Water-Intake-Reminder-App/assets/90883571/dee88af7-35e5-4c4d-bd94-682e012a045c)
+![Uploading 7.png…]()
+![Uploading 6.png…]()
+![Uploading 5.png…]()
+![Uploading 4.png…]()
+
 # Daily-Water-Intake-Reminder-App
 
 Staying hydrated is essential to maintaining a healthy body and mind, yet many people struggle to drink enough water each day. To help individuals stay on track with their hydration goals, we are excited to introduce our new Android app that helps users keep track of their daily water intake. This app offers a simple and user-friendly interface that allows users to log their water consumption, track their progress over time, and receive customized reminders and recommendations based on their activity level, location, and weather conditions. With its advanced features and personalized approach, our Android app is the perfect solution for anyone looking to stay hydrated and healthy.
@@ -19,3 +25,7 @@ Some of the features of the app, such as:
 
 ✓ Customized Reminders and Recommendations: The app will use the user's profile information to provide customized reminders and recommendations for water intake. The app will consider factors such as the user's daily water intake goals to provide the most effective reminders and recommendations within specific time period.
 
+![1](https://github.com/mms-aazeem/Daily-Water-Intake-Reminder-App/assets/90883571/2acff7ee-c547-4c01-831f-f6fd67fdb621)
+
+![Uploading 3.png…]()
+![Uploading 2.png…]()
