@@ -1,8 +1,4 @@
-![8](https://github.com/mms-aazeem/Daily-Water-Intake-Reminder-App/assets/90883571/dee88af7-35e5-4c4d-bd94-682e012a045c)
-![Uploading 7.png…]()
-![Uploading 6.png…]()
-![Uploading 5.png…]()
-![Uploading 4.png…]()
+
 
 # Daily-Water-Intake-Reminder-App
 
@@ -25,7 +21,3 @@ Some of the features of the app, such as:
 
 ✓ Customized Reminders and Recommendations: The app will use the user's profile information to provide customized reminders and recommendations for water intake. The app will consider factors such as the user's daily water intake goals to provide the most effective reminders and recommendations within specific time period.
 
-![1](https://github.com/mms-aazeem/Daily-Water-Intake-Reminder-App/assets/90883571/2acff7ee-c547-4c01-831f-f6fd67fdb621)
-
-![Uploading 3.png…]()
-![Uploading 2.png…]()
