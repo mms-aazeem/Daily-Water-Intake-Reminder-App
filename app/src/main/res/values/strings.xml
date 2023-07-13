@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Daily Water Intake Reminder</string>
+    <string name="title_activity_buy_water_bottle">BuyWaterBottle</string>
+
+    <string-array name="timer_values_array">
+        <item>Every 2 minutes</item>
+        <item>Every 30 minutes</item>
+        <item>Every 45 minutes</item>
+        <item>Every 1 Hour</item>
+        <item>Every 2 Hour</item>
+    </string-array>
+</resources>
